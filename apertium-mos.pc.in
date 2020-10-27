@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-mos
+
+Name: apertium-mos
+Description: Finite-state morphological transducer and constraint grammar for Mossi
+Version: @VERSION@
+
