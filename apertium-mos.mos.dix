@@ -1,320 +1,7 @@
-
-    <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-
-  <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
-
-  <sdefs>
-    <!-- Define symbol definitions within <sdef> here. -->
-    <sdef n="n"               c="Noun"/>
-    <sdef n="singular"/>
-    <sdef n="plural"/>
-  </sdefs>
-
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãadga</l>
-        <r>ãadga<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãadse</l>
-        <r>ãadse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãadre</l>
-        <r>ãadre<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãadse</l>
-        <r>ãadse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãbga</l>
-        <r>ãbga<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãbse</l>
-        <r>ãbse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
- <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãbre</l>
-        <r>ãbre<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãbã</l>
-        <r>ãbã<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãdga</l>
-        <r>ãdga<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãdse</l>
-        <r>ãdse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãmpulli</l>
-        <r>ãmpulli<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãmpullisi</l>
-        <r>ãmpullisi<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>anana</l>
-        <r>anana<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ananãba</l>
-        <r>ananãba<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãntɛnde</l>
-        <r>ãntɛnde<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãntɛnse</l>
-        <r>ãntɛnse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>arba</l>
-        <r>arba<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>arbse</l>
-        <r>arbse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>arozoaare</l>
-        <r>arozoaare<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>arozoaãba</l>
-        <r>arozoaãba<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>arzãn-tɩɩga</l>
-        <r>arzãn-tɩɩga<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>arzãn-tɩɩse</l>
-        <r>arzãn-tɩɩse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>arzɛka</l>
-        <r>arzɛka<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>arzɛgse</l>
-        <r>arzɛgse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>arzɛk soaba</l>
-        <r>arzɛk soaba<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>arzɛgs rãmb</l>
-        <r>arzɛgs rãmb<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>arzũma</l>
-        <r>arzũma<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>arzũmdãmba</l>
-        <r>arzũmdãmba<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>ãsba</l>
-        <r>ãsba<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ãsrãmba</l>
-        <r>ãsrãmba<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>baaba</l>
-        <r>baaba<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>baabaramba</l>
-        <r>baabaramba<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-    
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>bãada</l>
-        <r>bãada<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>bãadamba</l>
-        <r>bãadamba<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>baaga</l>
-        <r>baaga<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>baase</l>
-        <r>baase<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-   <section id="main" type="standard">
-    <e>
-      <p>
-        <l>bãaga</l>
-        <r>bãaga<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>bãase</l>
-        <r>bãase<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
-  
-  <section id="main" type="standard">
-    <e>
-      <p>
-        <l>baare</l>
-        <r>baare<s n="noun"/><s n="singular"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>baarse</l>
-        <r>baarse<s n="noun"/><s n="plural"/></r>
-      </p>
-    </e>
-  </section>
+<alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+<sdefs>
+    <sdef n="n"              c="Noun"/>
     <sdef n="np"              c="Proper noun"/>
     <sdef n="vblex"           c="Verb, lexical"/>
     <sdef n="vbmod"           c="Modal verb"/>
@@ -399,34 +86,53 @@
     <sdef n="rpar"            c="Right parenthesis"/>
     <sdef n="lquot"           c="Left quote"/>
     <sdef n="rquot"           c="Right quote"/>
+</sdefs>
+<pardefs>
+<pardef n="ãad/ga__n">
+      <e><p><l>ga</l><r>ga<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>se</l><r>ga<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="ãadga"><i>ãad</i><par n="ãad/ga__n"/></e>
 
-    <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
-    <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
-  </sdefs>
-
-  <pardefs>
-    <!-- Define paradigms within <pardef> here. -->
-    <pardef n="house__n">
-      <e><p><l></l><r><s n="n"/><s n="attr"/></r></p></e>
-      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
-      <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
-    </pardef>
-  </pardefs>
-
-  <section id="main" type="standard">
-    <!-- Define entries within <e> here. -->
-    <e lm="house"><i>house</i><par n="house__n"/></e>
-  </section>
-
-  <section id="final" type="inconditional">
-    <e><re>[.\?;:!…¿¶]</re><p><l></l><r><s n="sent"/></r></p></e>
-    <e><re>,</re>          <p><l></l><r><s n="cm"/></r></p></e>
-  </section>
-
+      <e><p><l>ãadre</l><r>ãadre<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãadse</l><r>ãadse<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>ãbga</l><r>ãbga<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãbse</l><r>ãbse<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>ãbre</l><r>ãbre<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãbã</l><r>ãbã<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>ãdga</l><r>ãdga<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãdse</l><r>ãdse<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>ãmpulli</l><r>ãmpulli<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãmpullisi</l><r>ãmpullisi<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>anana</l><r>anana<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ananãba</l><r>ananãba<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>ãntɛnde</l><r>ãntɛnde<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãntɛnse</l><r>ãntɛnse<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>arba</l><r>arba<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>arbse</l><r>arbse<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>arozoaare</l><r>arozoaare<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>arozoaãba</l><r>arozoaãba<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>arzãn-tɩɩga</l><r>arzãn-tɩɩga<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>arzãn-tɩɩse</l><r>arzãn-tɩɩse<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>arzɛka</l><r>arzɛka<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>arzɛgse</l><r>arzɛgse<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>arzɛk soaba</l><r>arzɛk soaba<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>arzɛgs rãmb</l><r>arzɛgs rãmb<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>arzũma</l><r>arzũma<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>arzũmdãmba</l><r>arzũmdãmba<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>ãsba</l><r>ãsba<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãsrãmba</l><r>ãsrãmba<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>baaba</l><r>baaba<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>baabaramba</l><r>baabaramba<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>bãada</l><r>bãada<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>bãadamba</l><r>bãadamba<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>baaga</l><r>baaga<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>baase</l><r>baase<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>bãaga</l><r>bãaga<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>bãase</l><r>bãase<s n="n"/><s n="pl"/></r></p></e>  
+      <e><p><l>baare</l><r>baare<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>baarse</l><r>baarse<s n="n"/><s n="pl"/></r></p></e>  
+</section>
 </dictionary>
-
-<!--
-Resources:
-    http://wiki.apertium.org/wiki/Monodix_basics
-    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Monolingual_dictionaries
--->
