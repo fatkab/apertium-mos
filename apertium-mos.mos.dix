@@ -95,6 +95,84 @@
 </pardefs>
 <section id="main" type="standard">
       <e lm="ãadga"><i>ãad</i><par n="ãad/ga__n"/></e>
+</sdefs>
+<pardefs>
+<pardef n="ãad/re__n">
+      <e><p><l>re</l><r>re<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>se</l><r>re<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="ãadre"><i>ãad</i><par n="ãad/re__n"/></e>
+</sdefs>
+<pardefs>
+<pardef n="ãb/ga__n">
+      <e><p><l>ga</l><r>ga<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>se</l><r>ga<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="ãbga"><i>ãb</i><par n="ãb/ga__n"/></e>
+</sdefs>
+<pardefs>
+<pardef n="ãb/re__n">
+      <e><p><l>re</l><r>re<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ã</l><r>re<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="ãbre"><i>ãb</i><par n="ãb/re__n"/></e>
+</sdefs>
+<pardefs>
+<pardef n="ãd/ga__n">
+      <e><p><l>ga</l><r>re<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>se</l><r>ga<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="ãdga"><i>ãd</i><par n="ãd/ga__n"/></e>
+</sdefs>
+<pardefs>
+<pardef n="ãmpul/li__n">
+      <e><p><l>li</l><r>li<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>si</l><r>li<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="ãmpulli"><i>ãmpul</i><par n="ãmpul/li__n"/></e>
+</sdefs>
+<pardefs>
+<pardef n="ana/na__n">
+      <e><p><l>na</l><r>na<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>ãba</l><r>na<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="anana"><i>ana</i><par n="ana/na__n"/></e>
+</sdefs>
+<pardefs>
+<pardef n="ãntɛn/de__n">
+      <e><p><l>de</l><r>de<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>se</l><r>de<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="ãntɛnde"><i>ãntɛn</i><par n="ãntɛn/de__n"/></e>
+ </sdefs>
+<pardefs>
+<pardef n="arb/a__n">
+      <e><p><l>a</l><r>a<s n="n"/><s n="sg"/></r></p></e>    
+      <e><p><l>se</l><r>a<s n="n"/><s n="pl"/></r></p></e>  
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+      <e lm="arba"><i>arb</i><par n="arb/a__n"/></e>
+            
+
+
+
+
+
 
       <e><p><l>ãadre</l><r>ãadre<s n="n"/><s n="sg"/></r></p></e>    
       <e><p><l>ãadse</l><r>ãadse<s n="n"/><s n="pl"/></r></p></e>  
