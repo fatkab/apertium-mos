@@ -6456,7 +6456,70 @@
    <e>       <p><l>gsã</l>         <r>ka<s n="n"/><s n="pl"/></r></p></e> 
    <e>r="LR" <p><l>gsã</l>         <r>ka<s n="n"/><s n="pl"/></r></p></e>			 
 </pardef>
-	
+<pardef n="vã/oogo__n">
+    <e>       <p><l>oogo</l>         <r>oogo<s n="n"/><s n="sg"/></r></p></e>
+    <e> r="LR"<p><l>oogo</l>         <r>oogo<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>oogã</l>         <r>oogo<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>oogã</l>         <r>oogo<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>ado</l>        <r>oogo<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>ado</l>        <r>oogo<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>adã</l>         <r>oogo<s n="n"/><s n="pl"/></r></p></e> 
+   <e>r="LR" <p><l>adã</l>         <r>oogo<s n="n"/><s n="pl"/></r></p></e>			 
+</pardef>
+<pardef n="vẽene/ga__n">
+    <e>       <p><l>ga</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>ga</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>gã</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>gã</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>sã</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e> 
+   <e>r="LR" <p><l>sã</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e>			 
+</pardef>
+<pardef n="vẽene/m__n">
+    <e>       <p><l>m</l>         <r>m<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>m</l>         <r>m<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>mã</l>         <r>m<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>mã</l>         <r>m<s n="n"/><s n="sg"/></r></p></e> 
+ </pardef>
+ <pardef n="vẽe/re__n">
+    <e>       <p><l>re</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>re</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>rã</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>rã</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 	 
+    <e>       <p><l>ya</l>        <r>re<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>ya</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>yã</l>         <r>re<s n="n"/><s n="pl"/></r></p></e> 
+   <e>r="LR" <p><l>yã</l>         <r>re<s n="n"/><s n="pl"/></r></p></e>			 
+</pardef>
+<pardef n="vẽneg/re__n">
+    <e>       <p><l>re</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>re</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>rã</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>rã</l>         <r>re<s n="n"/><s n="sg"/></r></p></e> 	 
+    <e>       <p><l>dse</l>        <r>re<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>dse</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>dsã</l>         <r>re<s n="n"/><s n="pl"/></r></p></e> 
+   <e>r="LR" <p><l>dsã</l>         <r>re<s n="n"/><s n="pl"/></r></p></e>			 
+</pardef>
+<pardef n="vɛɛsd/a__n">
+    <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>ã</l>         <r>a<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>ba</l>        <r>a<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>ba</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>bã</l>         <r>a<s n="n"/><s n="pl"/></r></p></e> 
+   <e>r="LR" <p><l>bã</l>         <r>a<s n="n"/><s n="pl"/></r></p></e>			 
+</pardef>
+<pardef n="vɛɛs/go__n">
+    <e>       <p><l>go</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>go</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>gã</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>gã</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 			 
+</pardef>
+
+
 
 
 
