@@ -9866,9 +9866,28 @@ pardef n="yaang/a__n">
    <e>       <p><l>gdã</l>         <r>go<s n="n"/><s n="pl"/></r></p></e> 
    <e>r="LR" <p><l>gdã</l>         <r>go<s n="n"/><s n="pl"/></r></p></e>			 
 </pardef>
-zʋgo	Nom
-        
+<pardef n="zʋl/ga__n">
+    <e>       <p><l>ga</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e>
+    <e> r="LR"<p><l>ga</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>gã</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>gã</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>sã</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e> 
+   <e>r="LR" <p><l>sã</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e>			 
+</pardef>
+<pardef n="zʋ/ʋre_n">
+    <e>       <p><l>ʋre</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>ʋre</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>ʋrã</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>ʋrã</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 		 
+    <e>       <p><l>a</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>a</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>ã</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>ã</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e> 		 
+</pardef>  
 
+	
 
 
 
