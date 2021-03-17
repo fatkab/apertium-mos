@@ -9923,16 +9923,15 @@ pardef n="yaang/a__n">
   <e>       <p><l>ode</l>       <r>ide<s n="vblex"/><s n="past"/></r></p></e>
   <e r="LR"><p><l>ided</l>      <r>ide<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
-<pardef n="kõ__vblex">
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>ing</l>       <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>ing</l>       <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>ing</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+<pardef n="pʋg	__vblex">
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
+  <e w="1"> <p><l>dẽ</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
+  <e w="3"> <p><l>dame</l>       <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e w="2"> <p><l>e</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>dame</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ame</l>        <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ame</l>        <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
 
 
