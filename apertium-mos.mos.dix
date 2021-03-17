@@ -2217,6 +2217,16 @@
    <e>       <p><l>yã</l>          <r>re<s n="n"/><s n="pl"/></r></p></e> 
     <e>r="LR" <p><l>yã</l>         <r>re<s n="n"/><s n="pl"/></r></p></e> 				 
 </pardef>
+<pardef n="kiba-kɩt/a__n">
+    <e>       <p><l>a</l>            <r>a<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>a</l>            <r>a<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>ã</l>            <r>a<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>ã</l>            <r>a<s n="n"/><s n="sg"/></r></p></e>
+    <e>       <p><l>ba</l>           <r>a<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>ba</l>           <r>a<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>bã</l>            <r>a<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>bã</l>           <r>a<s n="n"/><s n="pl"/></r></p></e>				 
+</pardef>
 <pardef n="kĩnd/fu__n">
     <e>       <p><l>fu</l>        <r>fu<s n="n"/><s n="sg"/></r></p></e> 
     <e> r="LR"<p><l>fu</l>        <r>fu<s n="n"/><s n="sg"/></r></p></e> 
@@ -2890,6 +2900,16 @@
     <e>r="LR" <p><l>ã</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e>				 
 </pardef>
 <pardef n="manwall/e__n">
+    <e>       <p><l>e</l>           <r>e<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>e</l>           <r>e<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>ã</l>           <r>e<s n="n"/><s n="sg"/></r></p></e> 
+    <e> r="LR"<p><l>ã</l>           <r>e<s n="n"/><s n="sg"/></r></p></e> 
+    <e>       <p><l>se</l>          <r>e<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>se</l>          <r>e<s n="n"/><s n="pl"/></r></p></e>
+   <e>       <p><l>sã</l>           <r>e<s n="n"/><s n="pl"/></r></p></e> 
+    <e>r="LR" <p><l>sã</l>          <r>e<s n="n"/><s n="pl"/></r></p></e>				 
+</pardef>
+<pardef n="marwall/e__n">
     <e>       <p><l>e</l>           <r>e<s n="n"/><s n="sg"/></r></p></e> 
     <e> r="LR"<p><l>e</l>           <r>e<s n="n"/><s n="sg"/></r></p></e> 
     <e>       <p><l>ã</l>           <r>e<s n="n"/><s n="sg"/></r></p></e> 
@@ -9889,7 +9909,31 @@ pardef n="yaang/a__n">
 </pardef>  
 
 	
-<!-- verb -->
+                         <!-- verb -->
+<pardef n="ab/ide__vblex">
+  <e>       <p><l>ide</l>       <r>ide<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ide</l>       <r>ide<s n="vblex"/><s n="imp"/></r></p></e>
+  <e>       <p><l>ode</l>       <r>ide<s n="vblex"/><s n="pp"/></r></p></e>
+  <e r="LR"><p><l>ided</l>      <r>ide<s n="vblex"/><s n="pp"/></r></p></e>
+  <e w="1"> <p><l>iding</l>     <r>ide<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e w="3"> <p><l>iding</l>     <r>ide<s n="vblex"/><s n="ger"/></r></p></e>
+  <e w="2"> <p><l>iding</l>     <r>ide<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ide</l>       <r>ide<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ides</l>      <r>ide<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ode</l>       <r>ide<s n="vblex"/><s n="past"/></r></p></e>
+  <e r="LR"><p><l>ided</l>      <r>ide<s n="vblex"/><s n="past"/></r></p></e>
+</pardef>
+<pardef n="kõ__vblex">
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e w="1"> <p><l>ing</l>       <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e w="3"> <p><l>ing</l>       <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e w="2"> <p><l>ing</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+</pardef>
 
 
 
