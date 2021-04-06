@@ -9946,7 +9946,7 @@ pardef n="yaang/a__n">
 
 	
                          <!-- verb -->
-<pardef n="pʋg	__vblex">
+<pardef n="pʋg__vblex">
   <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>e</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -9960,7 +9960,7 @@ pardef n="yaang/a__n">
   <e>       <p><l>ame</l>        <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>        <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardef n="kõ	__vblex">
+<pardef n="kõ__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
   <e w="1"> <p><l>otẽ</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -9971,7 +9971,7 @@ pardef n="yaang/a__n">
   <e>       <p><l>ome</l>        <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ome</l>        <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardef n="kɩ	__vblex">
+<pardef n="kɩ__vblex">
   <e>       <p><l>se</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>se</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
   <e w="1"> <p><l>sa</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -9983,7 +9983,7 @@ pardef n="yaang/a__n">
   <e>       <p><l>same</l>        <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>same</l>        <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardef n="kẽ	__vblex">
+<pardef n="kẽ__vblex">
   <e>       <p><l>ne</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>n</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l>ne</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -9996,7 +9996,7 @@ pardef n="yaang/a__n">
   <e>       <p><l>name</l>        <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>name</l>        <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardef n="ge	__vblex">
+<pardef n="ge__vblex">
   <e>       <p><l>se</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>s</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l>se</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -10022,7 +10022,7 @@ pardef n="yaang/a__n">
   <e>       <p><l>me</l>        <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>me</l>        <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardef n="dɩ	__vblex">
+<pardef n="dɩ__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
   <e w="1"> <p><l>tẽ</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
