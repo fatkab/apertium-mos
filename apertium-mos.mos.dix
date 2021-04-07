@@ -88,7 +88,7 @@
     <sdef n="rquot"           c="Right quote"/>
 </sdefs>
 	<!-- noun -->
-</pardef>
+</pardefs>
 <pardef n="ãad/ga__n">
     <e>       <p><l>ga</l>      <r>ga<s n="n"/><s n="sg"/></r></p></e>
     <e> r="LR"<p><l>ga</l>      <r>ga<s n="n"/><s n="sg"/></r></p></e> 
