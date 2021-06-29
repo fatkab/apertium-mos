@@ -2801,8 +2801,27 @@
   <e>       <p><l>a</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
-
-
+<pardef n="Kẽn/de_n">
+  <e>       <p><l>de</l>       <r>de<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>dã</l>       <r>de<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a</l>         <r>de<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ã</l>         <r>de<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="tao/ore__n">
+  <e>       <p><l>ore</l>        <r>ore<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>orã</l>        <r>ore<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a</l>        <r>ore<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>a</l>       <r>ore<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>oã</l>       <r>ore<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>oã</l>       <r>ore<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="Kuun/i_n">
+  <e>       <p><l>i</l>       		<r>i<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ã</l>       		<r>i<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>-damba</l>            <r>i<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>-dambã</l>            <r>i<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+	  
                          <!-- verb -->
 <pardef n="pʋg__vblex">
   <e>       <p><l>e</l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -2818,6 +2837,7 @@
   <e>       <p><l>ame</l>       <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
+	  
 <pardef n="kõ__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
