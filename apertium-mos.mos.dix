@@ -3066,6 +3066,9 @@ pardef n="wẽn/ga__adj">
 <pardef n="bãmba__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="taaba__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="tõndo__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
@@ -3107,6 +3110,66 @@ pardef n="wẽn/ga__adj">
 </pardef>
 <pardef n="bãmba__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="sẽn__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="rel"/><s n="mf"/><s n="sp"/></r></p></e>
+</pardef>
+<pardef n="yaa__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+<pardef n="kend-kẽnde__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+<pardef n="wa-wa__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+<pardef n="kabre__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+<pardef n="kato__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+<pardef n="sɩda__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+<pardef n="la__ij">
+  <e>       <p><l></l>          <r><s n="ij"/></r></p></e>
+</pardef>
+<pardef n="ne__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
+<pardef n="la__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
+<pardef n="le__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
+<pardef n="n__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
+<pardef n="pa__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
+<pardef n="wal__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
+<pardef n="tɩ__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="t'a__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="rẽ__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="bala__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="bɩ__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="ye__cnjadv">
+  <e>       <p><l></l>          <r><s n="cnjadv"/></r></p></e>
 </pardef>
 
 			<!-- verb -->
