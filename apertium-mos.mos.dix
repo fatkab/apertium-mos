@@ -2784,8 +2784,14 @@
 <pardef n="zu-zab/re__n">
   <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>a</l>         <r>re<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ã</l>         <r>re<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a</l>         <r>re<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ã</l>         <r>re<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="zĩ,-lik/ri__n">
+  <e>       <p><l>ri</l>        <r>ri<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>rã</l>        <r>ri<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a</l>         <r>ri<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ã</l>         <r>ri<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="zʋ/go__n">
   <e>       <p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
@@ -3222,6 +3228,45 @@ pardef n="wẽn/ga__adj">
 <pardef n="tõre___adv">
   <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
 </pardef>
+</pardef>
+<pardef n="n__pr">
+  <e>       <p><l></l>          <r><s n="pr"/></r></p></e>
+</pardef>
+<pardef n="a__pr">
+  <e>       <p><l></l>          <r><s n="pr"/></r></p></e>
+</pardef>
+<pardef n="zugu__pr">
+  <e>       <p><l></l>          <r><s n="pr"/></r></p></e>
+</pardef>
+<pardef n="pʋg/ẽ__postp">
+  <e>       <p><l>ẽ</l>          <r>ẽ<s n="postp"/></r></p></e>
+ <e r="RL">   <p><l>a</l>          <r>ẽ<s n="postp"/></r></p></e>
+</pardef>
+<pardef n="poor/ẽ__postp">
+  <e>       <p><l>ẽ</l>          <r>ẽ<s n="postp"/></r></p></e>
+ <e r="RL">   <p><l></l>          <r>ẽ<s n="postp"/></r></p></e>
+</pardef>
+<pardef n="taoor/e__postp">
+  <e>       <p><l></l>          <r>e<s n="postp"/></r></p></e>
+<e>       <p><l>ã</l>          <r>e<s n="postp"/></r></p></e>
+ <e r="RL">   <p><l>e</l>          <r>e<s n="postp"/></r></p></e>
+</pardef>
+<pardef n="naoor/e__postp">
+  <e>       <p><l></l>          <r>e<s n="postp"/></r></p></e>
+<e>       <p><l>ã</l>          <r>e<s n="postp"/></r></p></e>
+ <e r="RL">   <p><l>e</l>          <r>e<s n="postp"/></r></p></e>
+</pardef>
+<pardef n="soab/a__postp">
+  <e>       <p><l></l>          <r>a<s n="postp"/></r></p></e>
+<e>       <p><l>a</l>          <r>a<s n="postp"/></r></p></e>
+ <e r="RL">   <p><l>ã</l>          <r>a<s n="postp"/></r></p></e>
+</pardef>
+<pardef n="yĩnga__postp">
+  <e>       <p><l></l>          <r><s n="postp"/></r></p></e>
+</pardef>
+<pardef n="wɛɛngẽ__postp">
+  <e>       <p><l></l>          <r><s n="postp"/></r></p></e>
+</pardef>
 <pardef n="SEDEYAO__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l></l>        <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
@@ -3318,58 +3363,65 @@ pardef n="wẽn/ga__adj">
 </pardef>
 			<!-- verb -->
 <pardef n="na_vbmod">
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r><s n="vaux"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="ka_vbmod">
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r><s n="vaux"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="ra_vbmod">
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r><s n="vaux"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="tɩ_vbmod">
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r><s n="vaux"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="yɩl/e_vbmod">
-  <e>       <p><l>e</l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l>e</l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
- <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l>e</l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+ <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
 </pardef>
 <pardef n="sã_vbmod">
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r><s n="vaux"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="nan_vbmod">
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r><s n="vaux"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="kõn_vbmod">
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r><s n="vaux"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="da__vbmod">
-  <e>       <p><l>ill</l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l>ill</l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>      <r>ill<s n="vbmod"/><s n="past"/></r></p></e>
-  <e r="LR"><p><l></l>    <r>ill<s n="vbmod"/><s n="past"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>      <r><s n="vbmod"/><s n="past"/></r></p></e>
+  <e r="LR"><p><l></l>    <r><s n="vbmod"/><s n="past"/></r></p></e>
+ </pardef>
+<pardef n="y/a__vbmod">
+  <e>       <p><l></l>       <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l>a</l>       <r><s n="vaux"/><s n="inf"/></r></p></e>
+<e>       <p><l>a</l>       <r><s n="vbmod"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ɩ</l>      <r><s n="vbmod"/><s n="past"/></r></p></e>
+  <e r="LR"><p><l>ɩ</l>    <r><s n="vbmod"/><s n="past"/></r></p></e>
  </pardef>
 <pardef n="pʋg__vblex">
   <e>       <p><l>e</l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
