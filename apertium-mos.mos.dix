@@ -2541,13 +2541,13 @@
   <e>       <p><l>ã</l>         <r>di<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ã</l>         <r>di<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="y/lle__n">
-  <e>       <p><l>lle</l>       <r>lle<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>llã</l>       <r>lle<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ɛla</l>       <r>lle<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ɛla</l>       <r>lle<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ɛlã</l>       <r>lle<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ɛlã</l>       <r>lle<s n="n"/><s n="pl"/></r></p></e>
+<pardef n="y/elle__n">
+  <e>       <p><l>elle</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ellã</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ɛla</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ɛla</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ɛlã</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ɛlã</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="yel-lingd/im__n">
   <e>       <p><l>im</l>        <r>lle<s n="n"/><s n="sg"/></r></p></e>
@@ -3048,6 +3048,9 @@ pardef n="wẽn/ga__adj">
 <pardef n="menga__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
+<pardef n="meng__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+</pardef>
 <pardef n="fo__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -3088,6 +3091,14 @@ pardef n="wẽn/ga__adj">
  <e>       <p><l>ensã</l>       <r>nga<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ynse</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ynsã</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+</pardef>
+</pardef>
+<pardef n="kã/ngã__prn">
+  <e>       <p><l>ngã</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ense</l>       <r>ngã<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+ <e>       <p><l>ensã</l>       <r>ngã<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ynse</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ynsã</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="woto__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -3153,7 +3164,13 @@ pardef n="wẽn/ga__adj">
 <pardef n="wal__cnjcoo">
   <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
 </pardef>
+<pardef n="wala__cnjcoo">
+  <e>       <p><l></l>          <r><s n="cnjcoo"/></r></p></e>
+</pardef>
 <pardef n="tɩ__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="bala__cnjsub">
   <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
 </pardef>
 <pardef n="t'a__cnjsub">
@@ -3171,8 +3188,189 @@ pardef n="wẽn/ga__adj">
 <pardef n="ye__cnjadv">
   <e>       <p><l></l>          <r><s n="cnjadv"/></r></p></e>
 </pardef>
+			<!-- adverb -->
+<pardef n="naana__adv">
+  <e>       <p><l></l>          <r><s n="adv"/></r></p></e>
+</pardef>
 
+<pardef n="to-to__adv">
+  <e>       <p><l></l>           <r><s n="adv"/></r></p></e>
+</pardef>
+
+<pardef n="boto__adv">
+  <e>       <p><l></l>          <r><s n="adv"/></r></p></e>
+</pardef>
+
+<pardef n="wala__adv">
+  <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="fãa__adv">
+  <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="na-kẽndre__adv">
+  <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="bala__adv">
+  <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="sɩd___adv">
+  <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="hal___adv">
+  <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="tõre___adv">
+  <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
+</pardef>
+<pardef n="SEDEYAO__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l></l>        <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="ɛrpeyi__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l></l>        <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Barnab/e__np">
+  <e>       <p><l>e</l>          <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l></l>        <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Kẽemtarembũmbu__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l></l>        <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Sankar/e__np">
+  <e>       <p><l>e</l>          <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e>       <p><l></l>          <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l>a</l>        <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Amad/u__np">
+  <e>       <p><l>u</l>          <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e>       <p><l>o</l>          <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l>e</l>        <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l></l>        <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Mamad/u__np">
+  <e>       <p><l>u</l>          <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l></l>        <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Isuf/u__np">
+  <e>       <p><l>u</l>          <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l></l>        <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Wedraog/o__np">
+  <e>       <p><l>o</l>          <r>O<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ã</l>        <r>O<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Rok__np">
+  <e>       <p><l></l>         <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l></l>        <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Mark__np">
+  <e>       <p><l></l>         <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l></l>        <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Kiristẽ__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l></l>        <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="KABOOR/E__np">
+  <e>       <p><l>E</l>         <r>E<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l></l>        <r>E<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Yinuus/a__np">
+  <e>       <p><l>a</l>         <r>a<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l></l>        <r>a<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Nana__np">
+  <e>       <p><l></l>         <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Akufo__np">
+  <e>       <p><l></l>         <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Ado__np">
+  <e>       <p><l></l>         <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="BILG/O__np">
+  <e>       <p><l>O</l>         <r>a<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+   <e r="RL"><p><l></l>        <r>a<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Burkĩn/a__np">
+  <e>       <p><l>a</l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ã</l>          <r>a<s n="np"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Kosyam/a__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+<e>       <p><l>a</l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ã</l>          <r>a<s n="np"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Faso__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Gana__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Nizɛr__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Waogdg/o__np">
+  <e>       <p><l>o</l>          <r>O<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ã</l>        <r>O<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+</pardef>
 			<!-- verb -->
+<pardef n="na_vbmod">
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="ka_vbmod">
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="ra_vbmod">
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="tɩ_vbmod">
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="yɩl/e_vbmod">
+  <e>       <p><l>e</l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l>e</l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+ <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+</pardef>
+<pardef n="sã_vbmod">
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="nan_vbmod">
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="kõn_vbmod">
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r>ill<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e r="LR"><p><l></l>       <r>ill<s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="da__vbmod">
+  <e>       <p><l>ill</l>       <r>ill<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l>ill</l>       <r>ill<s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>      <r>ill<s n="vbmod"/><s n="past"/></r></p></e>
+  <e r="LR"><p><l></l>    <r>ill<s n="vbmod"/><s n="past"/></r></p></e>
+ </pardef>
 <pardef n="pʋg__vblex">
   <e>       <p><l>e</l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>e</l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
