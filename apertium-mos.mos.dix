@@ -762,7 +762,8 @@
 </pardef>
 <pardef n="bool/go__n">
   <e>       <p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e> <!-- appel -->
-  <e r="LR"><p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>g</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>se</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
@@ -771,16 +772,18 @@
 </pardef>
 <pardef n="booll/e__n">
   <e>       <p><l>e</l>         <r>e<s n="n"/><s n="sg"/></r></p></e> <!-- appel -->
-  <e r="LR"><p><l>e</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l></l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>        <r>e<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>se</l>        <r>e<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>        <r>e<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>sã</l>        <r>e<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="dakãa/gr__n">
-  <e>       <p><l>gre</l>       <r>gre<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>grã</l>       <r>gre<s n="n"/><s n="sg"/></r></p></e>
+<pardef n="dakãa/gre__n">
+  <e>       <p><l>gre</l>       <r>gre<s n="n"/><s n="sg"/></r></p></e>	
+  <e>       <p><l>r</l>       <r>gre<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>gr</l>       <r>gre<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>grã</l>       <r>gre<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dba</l>       <r>gre<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>dba</l>       <r>gre<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>dbã</l>       <r>gre<s n="n"/><s n="pl"/></r></p></e>
@@ -796,11 +799,13 @@
 </pardef>
 <pardef n="dakɩɩ/re__n">
   <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>r</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 
 <pardef n="dakɩ/ya__n">
   <e>       <p><l>ya</l>        <r>ya<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>ye</l>        <r>ya<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>yã</l>        <r>ya<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ba</l>        <r>ya<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ba</l>        <r>ya<s n="n"/><s n="pl"/></r></p></e>
@@ -809,9 +814,11 @@
 </pardef>
 <pardef n="dakõo/re__n">
   <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>r</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ba</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ba</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>b</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>bã</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>bã</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
@@ -819,13 +826,25 @@
   <e>       <p><l>nga</l>       <r>nga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ngã</l>       <r>nga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>mba</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>mba</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>mb</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>mba</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>mbã</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>mbã</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="dẽ/ko__n">
   <e>       <p><l>ko</l>        <r>ko<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>k</l>       <r>ko<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>gdã</l>       <r>ko<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>dgã</l>       <r>ko<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>do</l>        <r>ko<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>do</l>        <r>ko<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>gdã</l>       <r>ko<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>gdã</l>       <r>ko<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+	 <pardef n="rẽ/ko__n">
+  <e>       <p><l>ko</l>        <r>ko<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gdã</l>       <r>ko<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>k</l>       <r>ko<s n="n"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>dgã</l>       <r>ko<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>do</l>        <r>ko<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>do</l>        <r>ko<s n="n"/><s n="pl"/></r></p></e>
@@ -854,15 +873,17 @@
 </pardef>
 <pardef n="fõosr/e__n">
   <e>       <p><l>e</l>         <r>e<s n="n"/><s n="sg"/></r></p></e> <!-- bronchite -->
-  <e r="LR"><p><l>o</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l></l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="geos/go__n">
   <e>       <p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="ge/re__n">
   <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>r</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ya</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ya</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
@@ -873,6 +894,7 @@
 </pardef>
 <pardef n="gĩin/di__n">
   <e>       <p><l>di</l>        <r>di<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>d</l>        <r>di<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dã</l>        <r>di<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>na</l>        <r>di<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>na</l>        <r>di<s n="n"/><s n="pl"/></r></p></e>
@@ -881,6 +903,7 @@
 </pardef>
 <pardef n="gĩs/ga__n">
   <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>i</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>i</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e>
@@ -889,6 +912,7 @@
 </pardef>
 <pardef n="go/mde_n">
   <e>       <p><l>mde</l>       <r>a<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>md</l>       <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>mdã</l>       <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ama</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ama</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
@@ -905,6 +929,7 @@
 </pardef>
 <pardef n="gofneem/a_n">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l></l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>daba</l>      <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>daba</l>      <r>a<s n="n"/><s n="pl"/></r></p></e>
@@ -929,6 +954,7 @@
 </pardef>
 <pardef n="goyaa/ka__n">
   <e>       <p><l>ka</l>        <r>ka<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>k</l>        <r>ka<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>kã</l>        <r>ka<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>kse</l>       <r>ka<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>kse</l>       <r>ka<s n="n"/><s n="pl"/></r></p></e>
@@ -946,13 +972,15 @@
 <pardef n="gũud/a__n">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>dba</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>db</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
+<e>       <p><l>dba</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>dba</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>dbã</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>dbã</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="gʋvɛrnee/re__n">
   <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>r</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ɛyã</l>      <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ɛyã</l>      <r>re<s n="n"/><s n="pl"/></r></p></e>
@@ -973,13 +1001,14 @@
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>do</l>        <r>a<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>damba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
+<e>       <p><l>damb</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>damba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>dambã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>dambã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="kẽn/de__n">
   <e>       <p><l>de</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>d</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>da</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dã</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dre</l>       <r>de<s n="n"/><s n="sg"/></r></p></e>
@@ -999,6 +1028,7 @@
 </pardef>
 <pardef n="kiba/re__n">
   <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>r</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ya</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ya</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
@@ -1009,6 +1039,7 @@
   <e>       <p><l>a</l>        <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>        <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ba</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
+e>       <p><l>b</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ba</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>bã</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>bã</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
@@ -1018,6 +1049,7 @@
   <e>       <p><l>ã</l>        <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ba</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ba</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>b</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>bã</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>bã</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
@@ -1031,6 +1063,7 @@
 </pardef>
 <pardef n="kiuu/gu__n">
   <e>       <p><l>gu</l>        <r>gu<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>        <r>gu<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>gu<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>si</l>        <r>gu<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>si</l>        <r>gu<s n="n"/><s n="pl"/></r></p></e>
