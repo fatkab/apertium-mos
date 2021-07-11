@@ -1581,6 +1581,12 @@
   <e>       <p><l>bã</l>        <r>da<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>bã</l>        <r>da<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="nin-buiid/du__n">
+  <e>       <p><l>d</l>        <r>du<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>du</l>        <r>du<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>dã</l>        <r>du<s n="n"/><s n="sg"/></r></p></e>
+ 
+</pardef>
 <pardef n="ne/ere__n">
   <e>       <p><l>er</l>       <r>ere<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>ere</l>       <r>ere<s n="n"/><s n="sg"/></r></p></e>
@@ -2302,9 +2308,11 @@
   <e r="LR"><p><l>ebã</l>       <r>ya<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="sofɛɛ/re__n">
-  <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>r</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mba</l>       <r>re<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mb</l>       <r>re<s n="n"/><s n="pl"/></r></p></e>
+<e>       <p><l>mba</l>       <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>mba</l>       <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>mbã</l>       <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>mbã</l>       <r>re<s n="n"/><s n="pl"/></r></p></e>
@@ -3679,6 +3687,12 @@ pardef n="wẽn/ga__adj">
 <pardef n="yãoã__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
+<pardef n="rẽ__prn">
+  <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="rẽnda__prn">
+  <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+</pardef>
 <pardef n="ada__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -3750,6 +3764,15 @@ pardef n="wẽn/ga__adj">
   <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
 </pardef>
 <pardef n="rẽ__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="rẽ n wã__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="rẽ poore__cnjsub">
+  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
+</pardef>
+<pardef n="rẽ n so__cnjsub">
   <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
 </pardef>
 <pardef n="bala__cnjsub">
@@ -3876,6 +3899,11 @@ pardef n="wẽn/ga__adj">
 <pardef n="Wedraog/o__np">
   <e>       <p><l>o</l>          <r>O<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ã</l>        <r>O<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Lamu/sa__np">
+  <e>       <p><l>s</l>          <r>sa<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+<e>       <p><l>sa</l>          <r>sa<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>sã</l>        <r>sa<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="Rok__np">
   <e>       <p><l></l>         <r><s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
