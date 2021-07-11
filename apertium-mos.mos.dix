@@ -3338,13 +3338,6 @@
   <e>       <p><l>a</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
-<pardef n="Kẽn/de_n">
-  <e>       <p><l>d</l>       <r>de<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>de</l>       <r>de<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>dã</l>       <r>de<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>a</l>         <r>de<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ã</l>         <r>de<s n="n"/><s n="pl"/></r></p></e>
-</pardef>
 <pardef n="tao/ore__n">
   <e>       <p><l>ore</l>        <r>ore<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>orã</l>        <r>ore<s n="n"/><s n="sg"/></r></p></e>
