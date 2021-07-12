@@ -2250,6 +2250,13 @@
   <e>       <p><l>lã</l>        <r>fu<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>lã</l>        <r>fu<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="siglg/u__n">
+  <e>       <p><l>u</l>        <r>u<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ã</l>        <r>u<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>g</l>        <r>u<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>sii</l>        <r>u<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>u<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="sɩman/de__n">
   <e>       <p><l>d</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>de</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
@@ -2309,11 +2316,24 @@
   <e>       <p><l>lemd</l>     <r>lemde<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>lemde</l>     <r>lemde<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>lemdã</l>     <r>lemde<s n="n"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>lemdã</l>     <r>dlemde<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>lemdã</l>     <r>lemde<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>alma</l>      <r>lemde<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>alma</l>      <r>lemde<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>almã</l>      <r>lemde<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>almã</l>      <r>lemde<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="sool/em__n">
+  <e>       <p><l>em</l>     <r>em<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>m</l>     <r>em<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mẽ</l>     <r>em<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>mã</l>     <r>em<s n="n"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="soo/ge__n">
+  <e>       <p><l>ge</l>     <r>ge<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>     <r>ge<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gẽ</l>     <r>ge<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>go</l>     <r>ge<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>gã</l>     <r>ge<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="so/anga__n">
   <e>       <p><l>anga</l>      <r>anga<s n="n"/><s n="sg"/></r></p></e>
@@ -3468,6 +3488,11 @@
   <e>       <p><l>a</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>ʋre<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
+<pardef n="zems-taab/a__n">
+  <e>       <p><l></l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>a</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ã</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="tao/ore__n">
   <e>       <p><l>ore</l>        <r>ore<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>orã</l>        <r>ore<s n="n"/><s n="sg"/></r></p></e>
@@ -3481,7 +3506,7 @@
   <e>       <p><l>ã</l>       		<r>i<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>-damba</l>            <r>i<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>-dambã</l>            <r>i<s n="n"/><s n="pl"/></r></p></e>
-</pardef>	  
+</pardef>
 <pardef n="wo/ko__adj">
   <e>       <p><l>ko</l>          <r>ko<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>kã</l>        <r>ko<s n="adj"/><s n="sg"/></r></p></e>
@@ -3515,6 +3540,12 @@
   <e>       <p><l>ellã</l>        <r>elle<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>la</l>       <r>elle<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>lã</l>       <r>elle<s n="adj"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="zem-t/o__adj">
+  <e>       <p><l>o</l>          <r>o<s n="adj"/><s n="sg"/></r></p></e>
+  <e>       <p><l>aab</l>        <r>o<s n="adj"/><s n="pl"/></r></p></e>
+  <e>       <p><l>aaba</l>       <r>o<s n="adj"/><s n="pl"/></r></p></e>
+  <e>       <p><l>aabã</l>       <r>o<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="zel/bre__adj">
   <e>       <p><l>bre</l>          <r>bre<s n="adj"/><s n="sg"/></r></p></e>
@@ -3734,6 +3765,9 @@ pardef n="wẽn/ga__adj">
 </pardef>
 <pardef n="mense__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="to__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="kad/a__prn">
   <e>       <p><l>a</l>        <r>a<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -4012,8 +4046,11 @@ pardef n="wẽn/ga__adj">
    <e r="RL"><p><l></l>        <r>a<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="Burkĩn/a__np">
-  <e>       <p><l>a</l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+  <e>       <p><l>a</l>          <r>a<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ã</l>          <r>a<s n="np"/><s n="sg"/></r></p></e>
+</pardef>
+<pardef n="Bobo__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="Kosyam/a__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
