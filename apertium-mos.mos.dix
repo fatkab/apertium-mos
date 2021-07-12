@@ -9,7 +9,8 @@
 
 -->
 <dictionary>
-  <alphabet>aãbdeẽɛfghiĩɩklmnoõprstuũʋvwyz</alphabet>
+  <!-- Note: there's a single COMBINING TILDE at the start here – may look like two ã's: -->
+  <alphabet>̃aãbdeẽɛfghiĩɩklmnoõprstuũʋvwyz</alphabet>
   <sdefs>
     <sdef n="n" 	c="Noun"/> 
     <sdef n="np" 	c="Proper noun"/> 
